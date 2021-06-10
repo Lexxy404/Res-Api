@@ -9,9 +9,9 @@
 </p>
 <p align="center">
 <a href="https://github.com/zeeoneofc/followers"><img title="Followers" src="https://img.shields.io/github/followers/zeeoneofc?color=red&style=flat-square"></a>
-<a href="https://github.com/zeeoneofc/api-zeeoneofc/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/zeeoneofc/api-zeeoneofc?color=blue&style=flat-square"></a>
-<a href="https://github.com/zeeoneofc/api-zeeoneofc/network/members"><img title="Forks" src="https://img.shields.io/github/forks/zeeoneofc/api-lexxygans?color=red&style=flat-square"></a>
-<a href="https://github.com/zeeoneofc/api-zeeoneofc/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/zeeoneofc/api-lexxygans?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/zeeoneofc/api-lexxygans/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/zeeoneofc/api-zeeoneofc?color=blue&style=flat-square"></a>
+<a href="https://github.com/zeeoneofc/api-lexxygans/network/members"><img title="Forks" src="https://img.shields.io/github/forks/zeeoneofc/api-lexxygans?color=red&style=flat-square"></a>
+<a href="https://github.com/zeeoneofc/api-lexxygans/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/zeeoneofc/api-lexxygans?label=Watchers&color=blue&style=flat-square"></a>
 </p>
 <p align='center'>
    <a href="https://wa.me/6282279915237"><img height="30" src="https://c.top4top.io/p_1837yybbf0.jpeg"></a>&nbsp;&nbsp;
