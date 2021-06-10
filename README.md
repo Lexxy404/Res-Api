@@ -1,6 +1,6 @@
 
  
-# Source Codes - Lexxy Rest API
+# Source Codes - Rest API
 <p align="center">
 <a href="#"><img title="api lexxyganss" src="https://img.shields.io/badge/lexxygans Api-blue?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
